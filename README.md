@@ -1,2 +1,3 @@
 # Carbon-Market-Analysis
-All codes
+Return.ipynb : Return predictability analysis
+Paper.ipynb : Rest code
